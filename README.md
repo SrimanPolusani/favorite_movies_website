@@ -7,5 +7,5 @@
   <li>Frameworks & Modules: Jinja, Flask, Flask-Bootstrap, Flask-SQLAlchemy, WTForms, and Requests</li>
   <li>Backend: Python 3</li>
   <li>Database: SQLite</li>
-  <li>Frontend: HTML, CSS and JavaScript</li>
+  <li>Frontend: HTML and CSS</li>
 </ol>
